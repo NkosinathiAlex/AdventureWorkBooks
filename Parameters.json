@@ -5,20 +5,14 @@
     "p_file": "AdventureWorks_Calendar.csv"
   },
   {
-    "P_relative_url": "NkosinathiAlex/AdventureWorkBooks/blob/main/Data/AdventureWorks_Calendar.csv",
-    "p_folder": "AdventureWorkBooks_Calendar",
-    "p_file": "AdventureWorks_Calendar.csv"
+    "P_relative_url": "NkosinathiAlex/AdventureWorkBooks/refs/heads/main/Data/AdventureWorks_Products.csv",
+    "p_folder": "AdventureWorkBooks_Products",
+    "p_file": "/AdventureWorks_Products.csv"
   },
 
   {
-    "P_relative_url": "NkosinathiAlex/AdventureWorkBooks/blob/main/Data/AdventureWorks_Calendar.csv",
-    "p_folder": "AdventureWorkBooks_Calendar",
-    "p_file": "AdventureWorks_Calendar.csv"
-  },
-
-  {
-    "P_relative_url": "NkosinathiAlex/AdventureWorkBooks/blob/main/Data/AdventureWorks_Calendar.csv",
-    "p_folder": "AdventureWorkBooks_Calendar",
-    "p_file": "AdventureWorks_Calendar.csv"
+    "P_relative_url": "NkosinathiAlex/AdventureWorkBooks/refs/heads/main/Data/AdventureWorks_Returns.csv",
+    "p_folder": "AdventureWorkBooks_Returns",
+    "p_file": "AdventureWorks_Returns.csv"
   }
 ]
